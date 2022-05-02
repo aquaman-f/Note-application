@@ -1,4 +1,4 @@
-# Note-application
+# ToDo-application
 App for taking and editing notes
 
 WHAT TO DO:
